@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Bahrain Petroleum Company"
+      ],
+      "stated_as": "Chairman of Bapco"
+    },
+    "P580": "2015",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Adel Al Moayyed"
+    },
+    "P582": "2019",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Dawood Nassif"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Oil & Gas Authority"
+      ],
+      "stated_as": "Minister of Oil and Gas"
+    },
+    "P580": "2016-06-05",
+    "P1365": {
+      "links": [
+        "Abdulhussein bin Ali Mirza"
+      ],
+      "stated_as": "Abdulhussein bin Ali Mirza"
+    }
+  }
+]
