@@ -1,0 +1,159 @@
+{
+  "title": "Kamal Ahmed (politician)",
+  "pageID": 31018024,
+  "categories": [
+    "Bahraini politicians",
+    "Government ministers of Bahrain",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kamal Ahmed is a Bahraini politician and current Minister of Transportation and Communications.",
+              "links": [
+                {
+                  "text": "Bahraini",
+                  "type": "internal",
+                  "page": "Bahrain"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kamal Ahmed"
+                ]
+              }
+            },
+            {
+              "text": "In February 2011, he became the Minister of State for Cabinet Affairs of Bahrain by the appointment of King Hamad ibn Isa Al Khalifa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hamad ibn Isa Al Khalifa"
+                }
+              ]
+            },
+            {
+              "text": "He has also been the Executive Chairman of Operations at the Bahrain Development Board."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Bahraini politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.khaleejtimes.com/DisplayArticle08.asp?xfile=data/middleeast/2011/February/middleeast_February781.xml&section=middleeast",
+          "title": "King Hamad drops four ministers",
+          "date": "28 February 2011",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He holds a Bachelor’s degree in Civil Engineering from 1994 and a Master’s degree in International Project Management from the University of Leeds.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor’s degree"
+                },
+                {
+                  "type": "internal",
+                  "page": "Master’s degree"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Leeds"
+                }
+              ]
+            },
+            {
+              "text": "He joined the Bahrain Economic Development Board (BEDB) in 2004, directing the Industry Program that coordinates national industry policy, strategies, and business development plans with key ministries."
+            },
+            {
+              "text": "He then rose to chief operating officer of the Board, was chaired by Salman, Crown Prince of Bahrain.",
+              "links": [
+                {
+                  "text": "chief operating officer",
+                  "type": "internal",
+                  "page": "chief operating officer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Salman, Crown Prince of Bahrain"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2011, he was appointed Minister of Cabinet Affairs."
+            },
+            {
+              "text": "Then, in February 2012, he was appointed Minister of Transportation, renamed Minister of Transportation and Communications in December 2014.",
+              "links": [
+                {
+                  "text": "Minister of Transportation",
+                  "type": "internal",
+                  "page": "Ministry of Transportation (Bahrain)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "كمال أحمد",
+          "url": "http://www.alwasatnews.com/news/529254.html#",
+          "access-date": "5 March 2021",
+          "work": "Al-Wasat (Bahrain)",
+          "issue": "3096",
+          "date": "February 26, 2011",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "كمال أحمد",
+          "url": "http://www.alwasatnews.com/news/628853.html",
+          "access-date": "5 March 2021",
+          "work": "Al-Wasat (Bahrain)",
+          "issue": "3447",
+          "date": "February 13, 2012",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "bahrain-politician-stub"
+        }
+      ]
+    }
+  ]
+}
