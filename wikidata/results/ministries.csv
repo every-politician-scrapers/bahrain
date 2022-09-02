@@ -1,10 +1,10 @@
-item,itemLabel,minister,ministerLabel
-Q96393342,Ministry of Education,Q108884472,Minister of Education of Bahrain
-Q56290293,Ministry of Finance,,
-Q15253459,Ministry of Foreign Affairs,Q108884490,Minister of Foreign Affairs of Bahrain
-Q105563229,Ministry of Health,Q108884463,Minister of Health
-Q18345345,Ministry of Housing,Q108884520,Minister of Housing
-Q4294294,Ministry of Interior,Q108884508,Minister of the Interior of Bahrain
-Q56289982,Ministry of Justice,Q108884550,Minister of Justice of Bahrain
-Q16966394,Ministry of Transportation,Q108884588,Minister of Transportation and Communications
-Q4294543,Ministry of Works,Q108884529,Minister of Works
+item,itemLabel,minister,ministerLabel,began,ended
+Q96393342,Ministry of Education,Q108884472,Minister of Education of Bahrain,,
+Q56290293,Ministry of Finance,,,1970,
+Q15253459,Ministry of Foreign Affairs,Q108884490,Minister of Foreign Affairs of Bahrain,1971,
+Q105563229,Ministry of Health,Q108884463,Minister of Health,,
+Q18345345,Ministry of Housing,Q108884520,Minister of Housing,1975,
+Q4294294,Ministry of Interior,Q108884508,Minister of the Interior of Bahrain,1919,
+Q56289982,Ministry of Justice,Q108884550,Minister of Justice of Bahrain,,
+Q16966394,Ministry of Transportation,Q108884588,Minister of Transportation and Communications,,
+Q4294543,Ministry of Works,Q108884529,Minister of Works,1975,
