@@ -90,6 +90,7 @@
         },
         {
           "spouse": "Hala bint D'aij Al Khalifa",
+          "from": "1989",
           "to": "2005",
           "reason": "divorced",
           "template": "marriage"
@@ -141,7 +142,7 @@
             ]
           },
           "spouse": {
-            "text": "Hala bint D'aij Al Khalifa"
+            "text": "Hala bint D'aij Al Khalifa (m. 1989-2005)"
           },
           "issue": {
             "text": "Isa bin Salman\n\nMohammed bin Salman\n\nFatima bint Salman\n\nAl Joud bint Salman"
