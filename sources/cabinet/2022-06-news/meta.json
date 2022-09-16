@@ -1,0 +1,18 @@
+{
+    "cabinet": {
+      "start": "2022-06-15",
+      "parent": "Q5015494"
+    },
+    "reference": {
+        "P854":   "https://www.newsofbahrain.com/bahrain/81880.html",
+        "P1476": {
+            "text": "New Ministers Of Bahrain Cabinet Take Oath Before HM King Hamad",
+            "language": "en"
+        }
+    },
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Bahrain"
+    }
+}
