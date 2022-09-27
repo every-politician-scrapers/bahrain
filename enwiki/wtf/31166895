@@ -175,6 +175,10 @@
       ],
       "templates": [
         {
+          "date": "September 2022",
+          "template": "cleanup bare urls"
+        },
+        {
           "template": "politics of bahrain"
         }
       ],
