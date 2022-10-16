@@ -129,9 +129,8 @@
             "text": "Salman bin Hamad Al Khalifa",
             "links": [
               {
-                "text": "Salman bin Hamad Al Khalifa",
                 "type": "internal",
-                "page": "Salman, Crown Prince of Bahrain"
+                "page": "Salman bin Hamad Al Khalifa"
               }
             ]
           },
@@ -322,9 +321,9 @@
       "references": [
         {
           "title": "CV of Zayani",
-          "url": "http://www.europarl.europa.eu/meetdocs/2009_2014/documents/afet/dv/201/201201/20120131_gcc_secretary_general_cv_en.pdf",
           "work": "European Parliament",
-          "accessdate": "26 December 2012",
+          "access-date": "26 December 2012",
+          "url": "http://www.europarl.europa.eu/meetdocs/2009_2014/documents/afet/dv/201/201201/20120131_gcc_secretary_general_cv_en.pdf",
           "template": "citation",
           "type": "web"
         }
@@ -451,10 +450,10 @@
       "references": [
         {
           "title": "Qatar to nominate diplomat for Arab League chief",
-          "url": "http://www.thefreelibrary.com/Qatar+to+nominate+diplomat+for+Arab+League+chief.-a0253248830",
-          "accessdate": "11 April 2013",
           "newspaper": "Daily News Egypt",
           "date": "4 April 2011",
+          "url": "http://www.thefreelibrary.com/Qatar+to+nominate+diplomat+for+Arab+League+chief.-a0253248830",
+          "access-date": "11 April 2013",
           "location": "Cairo",
           "template": "citation",
           "type": "news"
@@ -462,7 +461,7 @@
         {
           "title": "Abdul Latif Al Zayani to be Appointed Foreign Minister of Bahrain",
           "url": "https://themedialine.org/headlines/abdul-latif-al-zayani-to-be-appointed-foreign-minister-of-bahrain/",
-          "accessdate": "13 August 2020",
+          "access-date": "13 August 2020",
           "newspaper": "The Media Line",
           "date": "2 January 2020",
           "location": "Manama",
@@ -502,7 +501,7 @@
         {
           "title": "Dr Abdullatif bin Rashid Al Zayani takes over as GCC secretary general",
           "url": "http://www.thefreelibrary.com/Dr+Abdullatif+bin+Rashid+Al-Zayani+takes+Over+as+GCC+Secretary...-a0252986757",
-          "accessdate": "11 April 2013",
+          "access-date": "11 April 2013",
           "work": "Bahrain News Agency",
           "date": "1 April 2011",
           "template": "citation",
@@ -511,7 +510,7 @@
         {
           "title": "HRH prince Salman receives Zayani",
           "url": "http://www.thefreelibrary.com/HRH+prince+Salman+receives+Zayani.-a0232686317",
-          "accessdate": "11 April 2013",
+          "access-date": "11 April 2013",
           "work": "Bahrain News Agency",
           "date": "21 June 2010",
           "template": "citation",
@@ -520,7 +519,7 @@
         {
           "title": "Saudi Arabia to mediate in Bahrain-Qatar row",
           "url": "http://www.alarabiya.net/articles/2010/05/27/109794.html",
-          "accessdate": "11 April 2013",
+          "access-date": "11 April 2013",
           "work": "Al Arabiya",
           "date": "27 May 2010",
           "agency": "Reuters",
@@ -536,7 +535,7 @@
           "first": "Habib",
           "title": "Bahrain announces new government",
           "url": "http://gulfnews.com/news/gulf/bahrain/bahrain-announces-new-government-1.705517",
-          "accessdate": "18 April 2013",
+          "access-date": "18 April 2013",
           "newspaper": "Gulf News",
           "date": "2 November 2010",
           "template": "citation",
@@ -545,7 +544,7 @@
         {
           "title": "Bahrain names Al Zayani as next GCC chief",
           "url": "http://gulfnews.com/news/gulf/bahrain/bahrain-names-al-zayani-as-next-gcc-chief-1.633562",
-          "accessdate": "11 April 2013",
+          "access-date": "11 April 2013",
           "newspaper": "Gulf News",
           "date": "28 May 2010",
           "template": "citation",
@@ -554,7 +553,7 @@
         {
           "title": "Al Zayani is nominated as GCC secretary-general",
           "url": "http://www.thefreelibrary.com/Al+Zayani+is+nominated+as+GCC+secretary-general.-a0227681916",
-          "accessdate": "11 April 2013",
+          "access-date": "11 April 2013",
           "newspaper": "Gulf Daily News",
           "date": "29 May 2010",
           "location": "Manama",
@@ -564,9 +563,8 @@
         {
           "title": "GCC Secretary General Al-Zayani named Bahrain's foreign minister",
           "url": "https://english.alarabiya.net/en/News/gulf/2020/01/02/GCC-secretary-general-Al-Zayani-to-become-Bahrain-s-foreign-minister-Report.html",
-          "accessdate": "2 January 2020",
-          "work": "english.alarabiya.net",
-          "language": "en",
+          "access-date": "2 January 2020",
+          "work": "Al Arabiya",
           "template": "citation",
           "type": "news"
         }
