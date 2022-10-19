@@ -39,11 +39,11 @@
               }
             },
             {
-              "text": "He is also the deputy supreme commander of the Bahrain Defense Force.",
+              "text": "He is also the deputy supreme commander of the Bahrain Defence Force.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Bahrain Defense Force"
+                  "page": "Bahrain Defence Force"
                 }
               ]
             }
@@ -100,6 +100,15 @@
         {
           "title": {
             "text": "Crown Prince of Bahrain"
+          },
+          "religion": {
+            "text": "Sunni Islam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sunni Islam"
+              }
+            ]
           },
           "succession": {
             "text": "Prime Minister of Bahrain",
