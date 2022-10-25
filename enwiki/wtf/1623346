@@ -472,6 +472,28 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 19 September 2022, he attended the state funeral of Queen Elizabeth II at Westminster Abbey, London.",
+              "links": [
+                {
+                  "text": "state funeral of Queen Elizabeth II",
+                  "type": "internal",
+                  "page": "Death and state funeral of Elizabeth II"
+                },
+                {
+                  "type": "internal",
+                  "page": "Westminster Abbey"
+                },
+                {
+                  "type": "internal",
+                  "page": "London"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
@@ -529,6 +551,16 @@
           "date": "2020-11-12",
           "work": "Al-Monitor",
           "access-date": "2021-11-29",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.harpersbazaararabia.com/culture/royal-watch/arab-royals-at-queen-elizabeth-ii-funeral",
+          "title": "Queen Elizabeth II’s Funeral: Arab Royals Pay Their Respects Ahead of The Ceremony",
+          "date": "2022-09-19",
+          "work": "Harper's Bazaar",
+          "access-date": "2022-10-24",
           "language": "en",
           "template": "citation",
           "type": "news"
