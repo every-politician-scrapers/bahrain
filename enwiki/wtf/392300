@@ -1666,6 +1666,20 @@
             ]
           },
           {
+            "text": "🇴🇲 First Class of the Order of Oman (24 October 2022)",
+            "links": [
+              {
+                "text": "🇴🇲",
+                "type": "internal",
+                "page": "oman"
+              },
+              {
+                "type": "internal",
+                "page": "Order of Oman"
+              }
+            ]
+          },
+          {
             "text": "🇬🇧 Honorary Knight Commander of the Order of St Michael and St George (UK, 15 February 1979)",
             "links": [
               {
@@ -1894,6 +1908,12 @@
         ]
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "url": "https://www.boe.es/boe/dias/1982/01/04/pdfs/A00102-00102.pdf",
           "title": "Otras disposiciones",
