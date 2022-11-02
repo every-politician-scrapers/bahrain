@@ -52,10 +52,10 @@
       "templates": [
         {
           "date": "August 2009",
-          "template": "refimproveblp"
+          "template": "blp sources"
         },
         {
-          "date": "April 2013",
+          "date": "October 2022",
           "template": "use dmy dates"
         },
         {
@@ -67,6 +67,9 @@
         {
           "name": {
             "text": "Sheikh Mohammad bin Mubarak Al Khalifa محمد بن مبارك بن حمد آل خليفة"
+          },
+          "spouse": {
+            "text": "Shaikha Moza bint Khalifa bin Hamad Al Khalifa"
           },
           "succession": {
             "text": "Deputy Prime Minister"
@@ -138,6 +141,9 @@
                 "page": "Khalid bin Ahmed Al Khalifa"
               }
             ]
+          },
+          "father": {
+            "text": "Sheikh Mubarak bin Hamad Al Khalifa (died 1977)"
           },
           "mother": {
             "text": "Sheikh Noura bint Abdullah bin Jabr al-Dosari (died 2016)"
@@ -215,11 +221,11 @@
               ]
             },
             {
-              "text": "He holds a bachelor's degree in international relations and law, which he obtained from London University.",
+              "text": "He holds a bachelor's degree in international relations and law, which he obtained from the University of London.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "London University"
+                  "page": "University of London"
                 }
               ]
             }
