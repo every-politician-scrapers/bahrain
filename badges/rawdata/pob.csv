@@ -1,0 +1,60 @@
+item,itemLabel,rank,pob,pobLabel,hasCountry,hasAdmin,hasref,refitem,exurl,wmurl,wmproj
+Q105226570,Aymen Tawfeeq Abdulrahman Almoayed,,,,,,false,,,,
+Q112326281,Salman bin Khalifa Al Khalifa,,,,,,false,,,,
+Q113581946,Mohammed bin Khalifa Al Khalifa,,,,,,false,,,,
+Q113990485,Ibrahim Hassan Ali Al-Hawaj,,,,,,false,,,,
+Q113992841,Abdulla bin Hasan AlNuaimi,,,,,,false,,,,
+Q113992842,Basim bin Yacoub AlHamer,,,,,,false,,,,
+Q113992843,Ghanim bin Fadhl AlBuainain,,,,,,false,,,,
+Q113992844,Wael bin Nasser AlMubarak,,,,,,false,,,,
+Q113992845,Zayed bin Rashid AlZayani,,,,,,false,,,,
+Q113992871,Shaikh Ali bin Khalifa Al Khalifa,,,,,,false,,,,
+Q113992878,Yasser bin Ibrahim Humaidan,,,,,,false,,,,
+Q113992885,Jalila bint Al Sayyed Jawad Hassan,,,,,,false,,,,
+Q113992886,Ramzan bin Abdulla Al Nuaimi,,,,,,false,,,,
+Q113992890,Nawaf bin Mohammed Al-Mawadah,,,,,,false,,,,
+Q113992892,Osama bin Ahmed Khalaf Al Asfoor,,,,,,false,,,,
+Q113992894,Mohammed bin Mubarak bin Daina,,,,,,false,,,,
+Q113992895,Mohammed bin Thamer Al Kaabi,,,,,,false,,,,
+Q113992957,Hamad bin Faisal Al Malki,,,,,,false,,,,
+Q113992960,Amna bint Ahmed Al Romaihi,,,,,,false,,,,
+Q113993088,Fatima bint Jaffer Al Sairafi,,,,,,false,,,,
+Q113993090,Noor bint Ali Al Khulaif,,,,,,false,,,,
+Q113993092,Yousif bin Abdulhussain Khalaf,,,,,,false,,,,
+Q16115995,Mohammed bin Ibrahim Al Mutawa,,,,,,false,,,,
+Q16190522,Nada Haffadh,,,,,,false,,,,
+Q16730783,Khalid bin Abdullah Al Khalifa,,,,,,false,,,,
+Q16730784,Rashid bin Abdullah Al Khalifa,,,,,,false,,,,
+Q18922847,Essam Khalaf,,,,,,false,,,,
+Q20386058,Q20386058,,,,,,false,,,,
+Q20402357,Khalifa bin Ahmed Al Khalifa,NormalRank,Q398,Bahrain,true,false,true,false,false,true,true
+Q20408969,Adel Al Asoomi,NormalRank,Q3882,Manama,true,true,true,false,false,true,true
+Q20420786,Salah Ali,,,,,,false,,,,
+Q20422627,Q20422627,NormalRank,Q3360322,Al Hidd,true,true,false,,,,
+Q22687699,Khalifa bin Ali bin Rashid Al-Khalifa,,,,,,false,,,,
+Q28510307,Fawaz bin Mohammed Al Khalifa,NormalRank,Q3882,Manama,true,true,true,false,false,true,true
+Q28968147,Mohammed bin Jasim Alghatam,NormalRank,Q270500,البحرين,true,true,true,false,false,true,true
+Q42822269,Faeqa bint Saeed Al Saleh,,,,,,false,,,,
+Q43296389,Fatima bint Mohammed Al Balooshi,,,,,,false,,,,
+Q4666152,Abdullatif bin Rashid Al Zayani,NormalRank,Q270500,البحرين,true,true,true,false,false,false,true
+Q4696094,Ahmed bin Ateyatalla Al Khalifa,,,,,,false,,,,
+Q4714362,Alees Samaan,NormalRank,Q398,Bahrain,true,false,true,false,false,true,true
+Q47495164,Mohammed bin Khalifa bin Ahmed,NormalRank,Q3882,Manama,true,true,true,false,false,true,true
+Q5331994,Ebrahim bin Khalifa Al Khalifa,,,,,,false,,,,
+Q5429567,Fahmi al-Jowder,,,,,,false,,,,
+Q5431085,Faisal al-Hamar,,,,,,false,,,,
+Q60191533,Fawzia Zainal,,,,,,false,,,,
+Q60914577,Ali bin Majid Al-Naimi,,,,,,false,,,,
+Q6127890,Jameel Humaidan,,,,,,false,,,,
+Q6165879,Jawad Al-Arrayedh,,,,,,false,,,,
+Q6355372,Kamal Ahmed,,,,,,false,,,,
+Q6399738,Khalil al-Marzooq,NormalRank,Q3882,Manama,true,true,false,,,,
+Q6495425,Lateefa Al Gaood,NormalRank,Q1771398,Riffa,true,true,true,false,false,false,true
+Q6932875,Muhammad ibn Mubarak ibn Hamad Al Khalifah,,,,,,false,,,,
+Q98804586,Ali bin Mohammed Al Rumaihi,,,,,,false,,,,
+Q98885149,Majed bin Ali Al-Naimi,,,,,,false,,,,
+Q99968427,Shaikh Khalid bin Ali bin Abdullah Al Khalifa,,,,,,false,,,,
+Q57352,Hamad bin Isa Al Khalifa,NormalRank,Q1771398,Riffa,true,true,true,false,false,false,true
+Q57726,Khalifa bin Salman Al Khalifa,NormalRank,Q6164132,Jasra,true,true,true,false,false,false,true
+Q58140,Salman bin Hamad bin Isa Al Khalifa,NormalRank,Q1771398,Riffa,true,true,true,false,false,false,true
+Q58171,Khalid bin Ahmed Al Khalifa,NormalRank,Q3882,Manama,true,true,true,false,false,false,true
