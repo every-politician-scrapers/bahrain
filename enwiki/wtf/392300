@@ -143,35 +143,43 @@
             "text": "14 February 2002"
           },
           "predecessor": {
-            "text": "Position established (Himself as Emir)"
+            "text": "Position established Himself (as Emir)",
+            "links": [
+              {
+                "text": "Emir",
+                "type": "internal",
+                "page": "King of Bahrain"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Position established",
+                "(as Emir)"
+              ]
+            }
           },
           "suc-type": {
             "text": "Heir apparent"
           },
           "successor": {
-            "text": "Salman bin Hamad bin Isa Al Khalifa",
+            "text": "Salman bin Hamad Al Khalifa",
             "links": [
               {
-                "text": "Salman bin Hamad bin Isa Al Khalifa",
+                "text": "Salman bin Hamad Al Khalifa",
                 "type": "internal",
                 "page": "Salman, Crown Prince of Bahrain"
               }
             ]
           },
           "reg-type": {
-            "text": "Prime Ministers"
+            "text": "Prime Minister"
           },
           "regent": {
-            "text": "Khalifa bin Salman Al Khalifa, Salman bin Hamad bin Isa Al Khalifa",
+            "text": "Khalifa bin Salman Al Khalifa Salman bin Hamad Al Khalifa",
             "links": [
               {
                 "type": "internal",
                 "page": "Khalifa bin Salman Al Khalifa"
-              },
-              {
-                "text": "Salman bin Hamad bin Isa Al Khalifa",
-                "type": "internal",
-                "page": "Salman, Crown Prince of Bahrain"
               }
             ]
           },
@@ -200,7 +208,20 @@
             ]
           },
           "successor1": {
-            "text": "Position abolished (Himself as King)"
+            "text": "Position abolished Himself (as King)",
+            "links": [
+              {
+                "text": "King",
+                "type": "internal",
+                "page": "King of Bahrain"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Position abolished",
+                "(as King)"
+              ]
+            }
           },
           "reg-type1": {
             "text": "Prime Minister"
