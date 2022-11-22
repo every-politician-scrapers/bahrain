@@ -21,13 +21,18 @@ wd aq $oldpsid P582 $1
 if [[ $3 =~ Q ]]
 then
     wd aq $oldpsid P1366 $3
-    newpsid=$(wd ac $3 P39 $position | jq -r .claim.id | sed -e 's/\$/-/') 
+    newpsid=$(wd ac $3 P39 $position | jq -r .claim.id | sed -e 's/\$/-/')
 
     if [[ $newpsid =~ Q ]]
     then
         sleep 1
         wd aq $newpsid P580 $1
         wd aq $newpsid P1365 $oldqid
+
+        if [[ $4 =~ http ]]
+        then
+            wd ar $newpsid P854 $4
+        fi
     else
         echo "No valid PSID to add qualifiers to"
     fi
