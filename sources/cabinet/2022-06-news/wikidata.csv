@@ -1,11 +1,9 @@
 item,itemLabel,position,positionLabel,startDate,endDate,source,sourceDate,psid
-Q105226570,Aymen Tawfeeq Abdulrahman Almoayed,Q113992775,Minister of Youth and Sport Affairs of Bahrain,2018-12-04,,,,Q105226570-4ED93B88-AC08-4F5C-A2C8-42EA22BA244D
 Q112326281,Salman bin Khalifa Al Khalifa,Q113992809,Minister of Finance and National Economy,2018-12-04,,,,Q112326281-577D4966-B4BB-4CBB-9646-A214616F43CF
 Q113990485,Ibrahim bin Hassan Al Hawaj,Q108884529,Works Minister,2022-06-15,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q113990485-3ce7c5a3-4ea4-1dde-2fc6-c0a1dcb7ddd5
 Q113992841,Abdulla bin Hasan AlNuaimi,Q108884577,Minister of Defence of Bahrain,2018-12-04,,,,Q113992841-35455D7C-4B65-4989-8906-F538506BA7EF
 Q113992843,Ghanim bin Fadhl AlBuainain,Q113992811,Minister of Parliament Affairs,2014-12-06,,,,Q113992843-AABD11C9-6986-4B16-86C2-6FB12B0569AA
 Q113992844,Wael bin Nasser Al Mubarak,Q113992965,Municipalities Affairs and Agriculture Minister,2019-10-05,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q113992844-8CAC25D1-A3E7-4D33-ABC1-62EECDDDAD63
-Q113992845,Zayed bin Rashid Al Zayani,Q113992810,Industry and Commerce Minister,2014-12-06,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q113992845-C32D02D6-C10B-4B3A-948D-B134E7B7E264
 Q113992871,Shaikh Ali bin Khalifa Al Khalifa,Q108884418,Deputy Prime Minister of Bahrain,2005-09-26,,,,Q113992871-A5D5ADC8-4B2E-48EA-9EEA-9B7849CFE200
 Q113992878,Yasser bin Ibrahim Humaidan,Q113992808,Electricity and Water Affairs Minister,2022-06-13,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q113992878-4217F1C6-907C-4BDC-A096-CF941EAC15D0
 Q113992885,Dr Jalila bint Al Sayyed Jawad Hassan,Q108884463,Health Minister,2022-06-13,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q113992885-F167188E-EB17-4058-8E76-22A2B7FB5291
@@ -19,10 +17,12 @@ Q113992960,Amna bint Ahmed Al Romaihi,Q108884520,Housing and Urban Planning Mini
 Q113993088,Fatima bint Jaffer Al Sairafi,Q113992970,Tourism Minister,2022-06-13,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q113993088-3252B60C-B8A1-4E6A-B2BF-A1FA4997B29A
 Q113993090,Noor bint Ali Al Khulaif,Q113992968,Sustainable Development Minister,2022-06-13,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q113993090-834E42A8-C743-422C-B196-15B13D74301E
 Q113993092,Youssef bin Abdulhussein Khalaf,Q113992963,Legal Affairs Minister,2022-06-13,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q113993092-61B0E9FC-2D64-4B78-B62F-64F2FB230580
+Q115343006,Mohammed bin Mubarak Juma,Q108884472,Minister of Education of Bahrain,2022-11-21,,,,Q115343006-D46FF4E7-9143-41C7-A1CA-B850898C6864
+Q115343224,Rawan bint Najeeb Tawfiqi,Q113992775,Minister of Youth and Sport Affairs of Bahrain,2022-11-21,,,,Q115343224-7EB83986-48EF-4A14-A03D-CBDDA1ACB04B
+Q115343267,Abdulla bin Adel Fakhro,Q113992810,"Minister of Industry, Commerce and Tourism",2022-11-21,,,,Q115343267-1FFFC730-F39D-46F6-BB31-19D60E6CD3E0
 Q16730783,Shaikh Khalid bin Abdulla Al Khalifa,Q108884418,Deputy Prime Minister and Minister for Infrastructure,2010-11-02,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q16730783-25dc6ac9-48b2-00c1-0055-678959faaa07
+Q16730783,Khalid bin Abdullah Al Khalifa,Q115344290,Minister of Infrastructure of Bahrain,2022-06-13,,,,Q16730783-cfd1f800-409c-7701-d0f8-42858f56c6d6
 Q16730784,Rashid bin Abdullah Al Khalifa,Q108884508,Minister of the Interior of Bahrain,2004-05-22,,,,Q16730784-01D42703-4E69-40E2-B9C4-AE7A9E773003
 Q4666152,Abdullatif bin Rashid Al Zayani,Q108884490,Minister of Foreign Affairs of Bahrain,2020-02-11,,,,Q4666152-4ECFBFA6-EE4C-4C5A-806A-B14C64947954
 Q58140,Salman bin Hamad bin Isa Al Khalifa,Q58150,Prime Minister of Bahrain,2020-11-11,,,,Q58140-75393553-4c68-1922-105a-650fa0ae9559
 Q6127890,Jameel bin Mohammed Ali Humaidan,Q108884535,Labour Minister,2015-09-30,,https://www.newsofbahrain.com/bahrain/81880.html,2022-09-16,Q6127890-9052010F-987C-4FAA-ADD6-ABC5F560D004
-Q6932875,Muhammad ibn Mubarak ibn Hamad Al Khalifah,Q108884418,Deputy Prime Minister of Bahrain,2005-09-26,,,,Q6932875-2C1D0DBB-B429-425E-9A86-A894965533BD
-Q98885149,Majed bin Ali Al-Naimi,Q108884472,Minister of Education of Bahrain,2002-11-11,,,,Q98885149-6B326C73-9926-4F7B-B54D-CACFCD74E4AD
