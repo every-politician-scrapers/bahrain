@@ -1,0 +1,17 @@
+{
+    "cabinet": {
+      "start": "2022-11-21",
+      "parent": "Q5015494"
+    },
+    "reference": {
+        "P854":   "https://www.bahrain.bh/wps/portal/!ut/p/a1/nZJRT8IwFIX_ijzscfRuZVvn2ySIEkADoqwvZOu6MbO1oxTQf2-BmGgigvbtNufcfufeIormiIpkWxaJLqVIqn1N_cXdA_iOS9wBwTMM0YPfnYQ9cPrgGUH8VQAY9_aC4DF4Dl2fwGV-cEdd575j_KMRQERuJsOn2y5AH5_zvyCKKBO60UsU80JuG6l0Ui24sMBUXImaC23BZs3zTXVVilyq-pDOApakpeB636FhZYZij6Uky0Kwwcuw3fGB2SEJsO0AxyxM8rSTu5_EJ050NvGUiyP1mbkdBL8N5ig4zREb0OAkiekw_WPywQXLLF9XKxqZlUih-ZtG83_uxLxVVDI9fME4EikmBaKK51xx1d4oc73UullfW2DBbrdrF1IWFW8zWVvwk2Up1wbmuxI19WxWE_xuD3r5eGzT1Ku2w6jV-gB8vxKy/dl5/d5/L2dBISEvZ0FBIS9nQSEh/",
+        "P1476": {
+            "text": "Kingdom of Bahrain - eGovernment Portal - Cabinet",
+            "language": "en"
+        }
+    },
+    "current_only": "true",
+    "person_description": {
+        "en": "politician in Bahrain"
+    }
+}
