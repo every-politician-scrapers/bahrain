@@ -668,7 +668,7 @@
         {
           "sentences": [
             {
-              "text": "Salman has been awarded a number of honours, these include:"
+              "text": "Salman has been awarded a number of honors, including:"
             }
           ]
         }
@@ -712,13 +712,8 @@
             ]
           },
           {
-            "text": "🇧🇭 Bahrain: Order of Sheikh Isa bin Salman Al Khalifa (Wisam al-Shaikh 'Isa bin Salman Al Khalifa), First Class",
+            "text": "Bahrain: Order of Sheikh Isa bin Salman Al Khalifa (Wisam al-Shaikh 'Isa bin Salman Al Khalifa), First Class",
             "links": [
-              {
-                "text": "Bahrain",
-                "type": "internal",
-                "page": "bahrain"
-              },
               {
                 "type": "internal",
                 "page": "Order of Sheikh Isa bin Salman Al Khalifa"
@@ -726,23 +721,11 @@
             ]
           },
           {
-            "text": "🇧🇭 Bahrain: Order of Ahmad the Conqueror (Wisam Ahmad al-Fateh), First Class",
-            "links": [
-              {
-                "text": "Bahrain",
-                "type": "internal",
-                "page": "bahrain"
-              }
-            ]
+            "text": "Bahrain: Order of Ahmad the Conqueror (Wisam Ahmad al-Fateh), First Class"
           },
           {
-            "text": "🇧🇭 Bahrain: King Hamad Order of the Renaissance, First Class",
+            "text": "Bahrain: King Hamad Order of the Renaissance, First Class",
             "links": [
-              {
-                "text": "Bahrain",
-                "type": "internal",
-                "page": "bahrain"
-              },
               {
                 "type": "internal",
                 "page": "King Hamad Order of the Renaissance"
@@ -750,33 +733,14 @@
             ]
           },
           {
-            "text": "🇧🇭 Bahrain: Order of Bahrain (Wisam al-Bahrein), First Class",
-            "links": [
-              {
-                "text": "Bahrain",
-                "type": "internal",
-                "page": "bahrain"
-              }
-            ]
+            "text": "Bahrain: Order of Bahrain (Wisam al-Bahrein), First Class"
           },
           {
-            "text": "🇧🇭 Bahrain: Hawar Medal (Wisam al-Hawar), First Class",
-            "links": [
-              {
-                "text": "Bahrain",
-                "type": "internal",
-                "page": "bahrain"
-              }
-            ]
+            "text": "Bahrain: Hawar Medal (Wisam al-Hawar), First Class"
           },
           {
-            "text": "🇯🇴 Jordan: Grand Cordon of the Supreme Order of the Renaissance (Wisam al-Nahda)",
+            "text": "Jordan: Grand Cordon of the Supreme Order of the Renaissance (Wisam al-Nahda)",
             "links": [
-              {
-                "text": "Jordan",
-                "type": "internal",
-                "page": "jordan"
-              },
               {
                 "type": "internal",
                 "page": "Supreme Order of the Renaissance"
@@ -784,13 +748,8 @@
             ]
           },
           {
-            "text": "🇰🇼 Kuwait: Order of the Liberation (Wisam al-Tahrir), First Class",
+            "text": "Kuwait: Order of the Liberation (Wisam al-Tahrir), First Class",
             "links": [
-              {
-                "text": "Kuwait",
-                "type": "internal",
-                "page": "kuwait"
-              },
               {
                 "text": "Order of the Liberation",
                 "type": "internal",
@@ -799,23 +758,11 @@
             ]
           },
           {
-            "text": "UAE: Collar of the Order of Etihad",
-            "links": [
-              {
-                "text": "UAE",
-                "type": "internal",
-                "page": "undefined"
-              }
-            ]
+            "text": "UAE: Collar of the Order of Etihad"
           },
           {
-            "text": "🇺🇸 USA: Golden Plate Award, American Academy of Achievement",
+            "text": "USA: Golden Plate Award, American Academy of Achievement",
             "links": [
-              {
-                "text": "USA",
-                "type": "internal",
-                "page": "united states"
-              },
               {
                 "text": "American Academy of Achievement",
                 "type": "internal",
@@ -837,7 +784,7 @@
           "title": "Golden Plate Awardees of the American Academy of Achievement",
           "work": "American Academy of Achievement",
           "access-date": "2022-06-03",
-          "language": "en",
+          "df": "dmy-all",
           "template": "citation",
           "type": "news"
         }
