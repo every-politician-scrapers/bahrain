@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Hamad bin Isa bin Salman Al Khalifa (حمد بن عيسى بن سلمان آل خليفة Hamed bin Īsā bin Selmān Āl Halīfe; 28 January 1950) is King of Bahrain since 14 February 2002, after ruling as Emir of Bahrain from 6 March 1999.",
+              "text": "Hamad bin Isa bin Salman Al Khalifa (حمد بن عيسى بن سلمان آل خليفة Hamed bin Îsâ bin Selmân Âl Halîfe; 28 January 1950) is King of Bahrain since 14 February 2002, after ruling as Emir of Bahrain from 6 March 1999.",
               "links": [
                 {
                   "type": "internal",
@@ -44,7 +44,7 @@
                   "Hamad bin Isa bin Salman Al Khalifa"
                 ],
                 "italic": [
-                  "Hamed bin Īsā bin Selmān Āl Halīfe"
+                  "Hamed bin Îsâ bin Selmân Âl Halîfe"
                 ]
               }
             }
@@ -102,7 +102,7 @@
         },
         {
           "lang": "ar",
-          "text": "Hamed bin Īsā bin Selmān Āl Halīfe",
+          "text": "Hamed bin Îsâ bin Selmân Âl Halîfe",
           "template": "transl",
           "iso": "DIN"
         }
@@ -255,6 +255,14 @@
               },
               {
                 "type": "internal",
+                "page": "Khalifa bin Hamad Al Khalifa"
+              },
+              {
+                "type": "internal",
+                "page": "Najla bint Hamad Al Khalifa"
+              },
+              {
+                "type": "internal",
                 "page": "Nasser bin Hamad Al Khalifa"
               },
               {
@@ -264,6 +272,26 @@
               {
                 "type": "internal",
                 "page": "Faisal bin Hamad bin Isa Al Khalifa"
+              },
+              {
+                "type": "internal",
+                "page": "Sultan bin Hamad Al Khalifa"
+              },
+              {
+                "type": "internal",
+                "page": "Hessa bint Hamad Al Khalifa"
+              },
+              {
+                "type": "internal",
+                "page": "Noura bint Hamad Al Khalifa"
+              },
+              {
+                "type": "internal",
+                "page": "Munira bint Hamad Al Khalifa"
+              },
+              {
+                "type": "internal",
+                "page": "Rima bint Hamad Al Khalifa"
               }
             ]
           },
