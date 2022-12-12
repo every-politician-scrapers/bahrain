@@ -1563,10 +1563,10 @@
       "lists": [
         [
           {
-            "text": "🇯🇴 Grand Cordon of the Order of the Star of Jordan (1 February 1967)",
+            "text": "🇯🇴 Jordan: Grand Cordon of the Order of the Star of Jordan (1 February 1967)",
             "links": [
               {
-                "text": "🇯🇴",
+                "text": "Jordan",
                 "type": "internal",
                 "page": "jordan"
               },
@@ -1577,7 +1577,7 @@
             ]
           },
           {
-            "text": "🇮🇶 Order of the Two Rivers, 1st class (Iraq, 22 February 1969)",
+            "text": "🇮🇶 Iraq: Member 1st class of the Order of the Two Rivers (22 February 1969)",
             "links": [
               {
                 "text": "🇮🇶",
@@ -1585,57 +1585,49 @@
                 "page": "iraq"
               },
               {
-                "type": "internal",
-                "page": "Order of the Two Rivers"
-              },
-              {
                 "text": "Iraq",
                 "type": "internal",
                 "page": "Ba'athist Iraq"
+              },
+              {
+                "type": "internal",
+                "page": "Order of the Two Rivers"
               }
             ]
           },
           {
-            "text": "🇲🇦 Order of Muhammad (Morocco, 16 October 1970)",
+            "text": "🇲🇦 Morocco: Collar of the Order of Muhammad (16 October 1970)",
             "links": [
               {
-                "text": "🇲🇦",
+                "text": "Morocco",
                 "type": "internal",
                 "page": "morocco"
               },
               {
                 "type": "internal",
                 "page": "Order of Muhammad"
-              },
-              {
-                "type": "internal",
-                "page": "Morocco"
               }
             ]
           },
           {
-            "text": "🇯🇴 Grand Cordon of the Supreme Order of the Renaissance (Jordan, 1 September 1972)",
+            "text": "🇯🇴 Jordan: Grand Cordon of the Supreme Order of the Renaissance (1 September 1972)",
             "links": [
               {
-                "text": "🇯🇴",
+                "text": "Jordan",
                 "type": "internal",
                 "page": "jordan"
               },
               {
                 "type": "internal",
                 "page": "Supreme Order of the Renaissance"
-              },
-              {
-                "type": "internal",
-                "page": "Jordan"
               }
             ]
           },
           {
-            "text": "🇪🇬 Grand Cordon of the Order of the Republic of Egypt (24 January 1973)",
+            "text": "🇪🇬 Egypt: Grand Cordon of the Order of the Republic (24 January 1973)",
             "links": [
               {
-                "text": "🇪🇬",
+                "text": "Egypt",
                 "type": "internal",
                 "page": "egypt"
               },
@@ -1647,7 +1639,7 @@
             ]
           },
           {
-            "text": "🇮🇷 Collar of the Order of the Crown (Iran, 28 April 1973)",
+            "text": "🇮🇷 Iran: Collar of the Order of the Crown (28 April 1973)",
             "links": [
               {
                 "text": "🇮🇷",
@@ -1655,40 +1647,36 @@
                 "page": "iran"
               },
               {
-                "text": "Order of the Crown",
-                "type": "internal",
-                "page": "Order of the Crown (Iran)"
-              },
-              {
                 "text": "Iran",
                 "type": "internal",
                 "page": "Imperial State of Iran"
+              },
+              {
+                "text": "Order of the Crown",
+                "type": "internal",
+                "page": "Order of the Crown (Iran)"
               }
             ]
           },
           {
-            "text": "🇸🇦 Collar of the Order of Abdulaziz al Saud (Saudi Arabia, 4 April 1976)",
+            "text": "🇸🇦 Saudi Arabia: Collar of the Order of Abdulaziz al Saud (4 April 1976)",
             "links": [
               {
-                "text": "🇸🇦",
+                "text": "Saudi Arabia",
                 "type": "internal",
                 "page": "saudi arabia"
               },
               {
                 "type": "internal",
                 "page": "Order of Abdulaziz al Saud"
-              },
-              {
-                "type": "internal",
-                "page": "Saudi Arabia"
               }
             ]
           },
           {
-            "text": "🇮🇩 Star of the Republic of Indonesia, 1st class (8 October 1977)",
+            "text": "🇮🇩 Indonesia: Star of the Republic of Indonesia, 1st class (8 October 1977)",
             "links": [
               {
-                "text": "🇮🇩",
+                "text": "Indonesia",
                 "type": "internal",
                 "page": "indonesia"
               },
@@ -1700,25 +1688,25 @@
             ]
           },
           {
-            "text": "🇲🇷 Order of Merit the Republic of Mauritania, 1st class (1 April 1978)",
+            "text": "🇲🇷 Mauritania: Member 1st class of the Order of Merit (1 April 1978)",
             "links": [
               {
-                "text": "🇲🇷",
+                "text": "Mauritania",
                 "type": "internal",
                 "page": "mauritania"
               },
               {
-                "text": "Order of Merit the Republic of Mauritania",
+                "text": "Order of Merit",
                 "type": "internal",
                 "page": "National Order of Merit (Mauritania)"
               }
             ]
           },
           {
-            "text": "🇴🇲 First Class of the Order of Oman (24 October 2022)",
+            "text": "🇴🇲 Oman: Member 1st class of the Order of Oman (24 October 2022)",
             "links": [
               {
-                "text": "🇴🇲",
+                "text": "Oman",
                 "type": "internal",
                 "page": "oman"
               },
@@ -1729,57 +1717,48 @@
             ]
           },
           {
-            "text": "🇬🇧 Honorary Knight Commander of the Order of St Michael and St George (UK, 15 February 1979)",
+            "text": "🇬🇧 United Kingdom: Honorary Knight Commander of the Order of St Michael and St George (KCMG, 15 February 1979)",
             "links": [
               {
-                "text": "🇬🇧",
+                "text": "United Kingdom",
                 "type": "internal",
                 "page": "united kingdom"
               },
               {
                 "type": "internal",
                 "page": "Order of St Michael and St George"
-              },
-              {
-                "text": "UK",
-                "type": "internal",
-                "page": "United Kingdom"
               }
             ]
           },
           {
-            "text": "🇱🇾 Order of the Grand Conqueror of Libya, 1st class (1 September 1979)",
+            "text": "🇱🇾 Libya: Member 1st class of the Order of the Grand Conqueror of Libya (1 September 1979)",
             "links": [
               {
-                "text": "🇱🇾",
+                "text": "Libya",
                 "type": "internal",
                 "page": "libya"
               }
             ]
           },
           {
-            "text": "🇪🇸 Grand Cross of the Order of Isabella the Catholic of Spain (4 December 1981)",
+            "text": "🇪🇸 Spain: Knight Grand Cross of the Order of Isabella the Catholic (4 December 1981)",
             "links": [
               {
-                "text": "🇪🇸",
+                "text": "Spain",
                 "type": "internal",
                 "page": "spain"
               },
               {
                 "type": "internal",
                 "page": "Order of Isabella the Catholic"
-              },
-              {
-                "type": "internal",
-                "page": "Spain"
               }
             ]
           },
           {
-            "text": "🇲🇾 Honorary Recipient of the Order of the Crown of the Realm (28 October 2000)",
+            "text": "🇲🇾 Malaysia: Honorary Recipient of the Order of the Crown of the Realm (DMN, 28 October 2000)",
             "links": [
               {
-                "text": "🇲🇾",
+                "text": "Malaysia",
                 "type": "internal",
                 "page": "malaysia"
               },
@@ -1790,8 +1769,13 @@
             ]
           },
           {
-            "text": "Order of Zayed of the UAE (2 February 2005)",
+            "text": "UAE: Collar of the Order of Zayed (2 February 2005)",
             "links": [
+              {
+                "text": "UAE",
+                "type": "internal",
+                "page": "undefined"
+              },
               {
                 "type": "internal",
                 "page": "Order of Zayed"
@@ -1799,10 +1783,10 @@
             ]
           },
           {
-            "text": "🇮🇪 Honorary Fellow of the Royal College of Surgeons in Ireland (2006)",
+            "text": "🇮🇪 Ireland: Honorary Fellow of the Royal College of Surgeons in Ireland (Hon FRCSI, 2006)",
             "links": [
               {
-                "text": "🇮🇪",
+                "text": "Ireland",
                 "type": "internal",
                 "page": "ireland"
               },
@@ -1813,20 +1797,20 @@
             ]
           },
           {
-            "text": "🇾🇪 Order of the Republic of the Yemen, 1st class (25 March 2010)",
+            "text": "🇾🇪 Yemen: Member 1st class of the Order of the Republic of the Yemen (25 March 2010)",
             "links": [
               {
-                "text": "🇾🇪",
+                "text": "Yemen",
                 "type": "internal",
                 "page": "yemen"
               }
             ]
           },
           {
-            "text": "🇩🇰 Knight Grand Cross of the Order of the Dannebrog (4 February 2011)",
+            "text": "🇩🇰 Denmark: Grand Cross of the Order of the Dannebrog (SK, 4 February 2011)",
             "links": [
               {
-                "text": "🇩🇰",
+                "text": "Denmark",
                 "type": "internal",
                 "page": "denmark"
               },
@@ -1837,10 +1821,10 @@
             ]
           },
           {
-            "text": "🇫🇷 Grand Cross of the National Order of Merit of France",
+            "text": "🇫🇷 France: Grand Cross of the National Order of Merit",
             "links": [
               {
-                "text": "🇫🇷",
+                "text": "France",
                 "type": "internal",
                 "page": "france"
               },
@@ -1848,18 +1832,14 @@
                 "text": "National Order of Merit",
                 "type": "internal",
                 "page": "Ordre national du Mérite"
-              },
-              {
-                "type": "internal",
-                "page": "France"
               }
             ]
           },
           {
-            "text": "🇹🇳 Grand Cordon of the Order of the Republic of Tunisia (27 January 2016)",
+            "text": "🇹🇳 Tunisia: Grand Cordon of the Order of the Republic (27 January 2016)",
             "links": [
               {
-                "text": "🇹🇳",
+                "text": "Tunisia",
                 "type": "internal",
                 "page": "tunisia"
               },
@@ -1871,26 +1851,27 @@
             ]
           },
           {
-            "text": "🇪🇬 Collar of the Order of the Nile (Egypt, 26 April 2016)",
+            "text": "🇪🇬 Egypt: Collar of the Order of the Nile (26 April 2016)",
             "links": [
               {
-                "text": "🇪🇬",
+                "text": "Egypt",
                 "type": "internal",
                 "page": "egypt"
               },
               {
                 "type": "internal",
                 "page": "Order of the Nile"
-              },
-              {
-                "type": "internal",
-                "page": "Egypt"
               }
             ]
           },
           {
-            "text": "Grand Collar of the State of Palestine (10 April 2017)",
+            "text": "Palestine: Grand Collar of the State of Palestine (10 April 2017)",
             "links": [
+              {
+                "text": "Palestine",
+                "type": "internal",
+                "page": "undefined"
+              },
               {
                 "type": "internal",
                 "page": "Grand Collar of the State of Palestine"
@@ -1898,8 +1879,13 @@
             ]
           },
           {
-            "text": "Recipient of the Royal Family Order of the Crown of Brunei (DKMB, 3 May 2017)",
+            "text": "Brunei: Recipient of the Royal Family Order of the Crown of Brunei (DKMB, 3 May 2017)",
             "links": [
+              {
+                "text": "Brunei",
+                "type": "internal",
+                "page": "undefined"
+              },
               {
                 "text": "Royal Family Order of the Crown of Brunei",
                 "type": "internal",
@@ -1908,18 +1894,23 @@
             ]
           },
           {
-            "text": "🇹🇲 Member of the Order of Neutrality (18 March 2019).",
+            "text": "🇹🇲 Turkmenistan: Member of the Order of Neutrality (18 March 2019).",
             "links": [
               {
-                "text": "🇹🇲",
+                "text": "Turkmenistan",
                 "type": "internal",
                 "page": "turkmenistan"
               }
             ]
           },
           {
-            "text": "First Class of the Royal Family Order of Johor (DK I, 26 November 2017)",
+            "text": "Johor: Grand Commander of the Royal Family Order of Johor (DK I, 26 November 2017)",
             "links": [
+              {
+                "text": "Johor",
+                "type": "internal",
+                "page": "undefined"
+              },
               {
                 "type": "internal",
                 "page": "Royal Family Order of Johor"
@@ -1927,10 +1918,10 @@
             ]
           },
           {
-            "text": "🇧🇷 Grand Collar of the Order of the Southern Cross (12 November 2021).",
+            "text": "🇧🇷 Brazil: Grand Collar of the Order of the Southern Cross (12 November 2021).",
             "links": [
               {
-                "text": "🇧🇷",
+                "text": "Brazil",
                 "type": "internal",
                 "page": "brazil"
               },
@@ -1941,10 +1932,10 @@
             ]
           },
           {
-            "text": "🇷🇺 Honorary Doctorate from Moscow State Institute of International Relations (2 July 2021)",
+            "text": "🇷🇺 Russia: Honorary Doctorate from Moscow State Institute of International Relations (2 July 2021)",
             "links": [
               {
-                "text": "🇷🇺",
+                "text": "Russia",
                 "type": "internal",
                 "page": "russia"
               },
