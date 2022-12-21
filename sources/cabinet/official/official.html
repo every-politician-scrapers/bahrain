@@ -115,6 +115,16 @@
 
 
 
+
+
+
+
+
+
+ 
+
+
+
   
 
 
@@ -613,7 +623,7 @@
 The Crown Prince and Prime Minister<br />
 &nbsp;&nbsp;<br />
 <strong><abbr title="His Excellency">H.E.</abbr> Shaikh Khalid bin Abdulla Al Khalifa&nbsp;</strong><br />
-Deputy Prime Minister and Minister for Infrastructure<br />
+Deputy Prime Minister<br />
 &nbsp;<br />
 <strong><abbr title="Lieutenant general">H.E. Lt</abbr>- General Shaikh Rashid bin Abdulla Al Khalifa&nbsp;</strong><br />
 Minister of Interior<br />
@@ -786,7 +796,7 @@ dojo.addOnLoad(function(){
 	</div>
 
 
-<br><p align=right>Page Last Updated: 22 Nov, 2022</p>
+<br><p align=right>Page Last Updated: 20 Dec, 2022</p>
 
 </div>
 <!-- RSPEAK_STOP -->
@@ -1237,7 +1247,7 @@ a[href^="tel"]:hover {
 						style="list-style-type: none; text-align: center; margin: 0; margin-bottom: 20px;">
 						<li>ISO 9001 Certified</li>
 						<li>&copy; Kingdom of Bahrain. All Rights Reserved.</li>
-						<li>Last updated :20/12/2022</li>
+						<li>Last updated :21/12/2022</li>
 					</ul>
 				</div>
 			</div>
@@ -1256,53 +1266,32 @@ a[href^="tel"]:hover {
 
 <!--  General Popup -->
 
-<style>
-   #theGeneralModal {
-   
-   
-   
-   	 left:50%;
-   	 width: auto;
-   }
-   @media (max-width: 767px){
-	#theGeneralModal {
-		left:10px;
-		}
-   }
-</style>
-
- 
 <div id="generalModel" style="display: none;" class="row-fluid">
 	<!-- Popup backdrop -->
 	<div class="modal-backdrop in" data-backdrop="static" data-keyboard="false"></div>
 
 	<!-- The popup modal -->
-	<div id="theGeneralModal" class="modal fade in" tabindex="-1" role="dialog" aria-hidden="false"> <!-- style="top: 5%; overflow:auto; left:46%;" --><!-- Popup Header -->
-		<div class="modal-header" style="padding: 0px 10px;background-color: #d8403a; border:0px;">
+	<div class="modal fade in" tabindex="-1" role="dialog" aria-hidden="false" style="top: 5%; overflow:auto; left:46%;">
+		<!-- Popup Header -->
+		<div class="modal-header" style="padding: 0px 10px;background-color: #fff; border:0px;">
 			<!-- Close icon -->
-			<a class="minimizeModal"><i class="material-icons" style="font-family: verdana; font-size: 15px; color:#fff;">X</i></a>
+			<a class="minimizeModal"><i class="material-icons" style="font-family: verdana; font-size: 15px; color:#000;">X</i></a>
 			<!-- Title - text from bundle --><!-- Title - Direct text -->
-			<h4 id="myModalLabel2" style="color: #1259ff; /*display: none;*/">Announcement</h4>
 		</div>
 
 		<!-- Popup Body -->
-		<div class="modal-body" id="theModalBody" style="padding: 0px; min-height:200px; /*overflow-y:scroll; padding: 0px; max-height: none;*/">
+		<div class="modal-body" style="padding: 0px; min-height:200px; /*overflow-y:scroll; padding: 0px; max-height: none;*/">
 			<!-- Popup Content -->
 			<div class="row-fluid">
 
 				<!-- Text Message - General - EN and AR --><!-- Text Message - Manage e-key Profile - EN and AR -->
 				<div class="span12" id="myModalBody2" style="display: none;">In order to manage your Profile, you will be automatically signed out from the eKey system to protect and secure your personal information.</div>
 
-				<!-- Image Message - EN and AR --><!-- Uncomment for popups --><!-- Image Message -->
-					<div id="myModalBody4" style="display: none;">
-						<img src="/wps/contenthandler/!ut/p/digest!-oDIag-RtEAGY-vaUQUBzQ/dav/fs-type1/themes/PortalPlusMain/images/NationalDay2022Popup.png" style="width: 100%;"/>
-					</div>
-
-					
+				<!-- Image Message - EN and AR -->					
 			</div>
 		</div>
 		<!-- Popup Footer -->
-		<div class="modal-footer-general" id="theModalFooter" style="text-align: center; padding: 5px; /*display: none;*/ background-color:#fff;">
+		<div class="modal-footer-general" style="text-align: center; padding: 5px; display: block; background-color:#fff;">
 			<!-- OK button -->
 			<button style="display: none;" class="button_style"	id="login-bar-manage-profile-button-ok" type="button" data-dismiss="modal" aria-hidden="true">Ok</button>
 			<!-- Close button -->
@@ -1512,8 +1501,7 @@ a[href^="tel"]:hover {
 	var generalModel = document.getElementById("generalModel");
 	
 	/** JS-Function-001 **/
-	function displayGeneralPopUp(labelId , bodyId , buttonIds , isOneTime , isWithHeader)
-	{		
+	function displayGeneralPopUp(labelId , bodyId , buttonIds , isOneTime , isWithHeader){		
 		console.log(labelId + " " + bodyId + " " + buttonIds + " " + isOneTime + " " + isWithHeader);
 		console.log("B" + buttonIds.length);
 		if(isWithHeader == true){
@@ -1529,27 +1517,25 @@ a[href^="tel"]:hover {
 		$('#'+bodyId).show();		
 		
 		$("#generalModel .modal .modal-footer button").hide();		
-		if(buttonIds.length == 0){
+		/*if(buttonIds.length == 0){
 			$("div.modal-footer-general").hide();
 		}
 		else{
 			for (var i = 0; i < buttonIds.length; i++) { 
 	   			$('#'+buttonIds[i]).show();
 			}
-		}		
+		}*/		
 		$("div.modal-footer").show();
 		
 		var language = "en";		
-
-
-
+		
 		if(isOneTime == true){
 			setCookie("show-general-popup-one-time"+language ,"true","","/","","");
 		}
 		else{
 			setCookie("show-general-popup-one-time"+language,"false","","/","","");
 		}
-
+	
 		if(getCookie("show-general-popup-one-time"+language) == "false" || getCookie("show-general-popup-one-time"+language)== undefined){
 			generalModel.style.display = 'block';
 		}
@@ -1558,10 +1544,6 @@ a[href^="tel"]:hover {
 			setCookie("first-time-for-showing-general-popup-one-time"+language,"false","","/","","");
 		}
 		
-	
-	
-			
-	 		
 	}
 
 	$(".minimizeModal").click(function(){
@@ -1578,11 +1560,7 @@ a[href^="tel"]:hover {
 	/*Eid Popup*/
 	//displayGeneralPopUp("" , "myModalBody3" ,[],true,true);
 	
-	/*National Day popup*/
-	displayGeneralPopUp("" , "myModalBody4" ,[],true,true);
-	
-	//document.getElementById("theModalFooter").style.display = "none"; 
-	
+	//displayGeneralPopUp("myModalLabel1" , "myModalBody4" ,[],true,true);
 	
 </script>
 
@@ -1796,7 +1774,7 @@ a[href^="tel"]:hover {
 	
 	/** JQuery-Code-003 **/	
 	$("#login-bar-link-logout").click(function() {
-		window.location.href = '/wps/portal/!ut/p/a1/nZJRT8IwFIX_ijzscfRuZVvn2ySIEkADoqwvZOu6MbO1oxTQf2-BmGgigvbtNufcfufeIormiIpkWxaJLqVIqn1N_cXdA_iOS9wBwTMM0YPfnYQ9cPrgGUH8VQAY9_aC4DF4Dl2fwGV-cEdd575j_KMRQERuJsOn2y5AH5_zvyCKKBO60UsU80JuG6l0Ui24sMBUXImaC23BZs3zTXVVilyq-pDOApakpeB636FhZYZij6Uky0Kwwcuw3fGB2SEJsO0AxyxM8rSTu5_EJ050NvGUiyP1mbkdBL8N5ig4zREb0OAkiekw_WPywQXLLF9XKxqZlUih-ZtG83_uxLxVVDI9fME4EikmBaKK51xx1d4oc73UullfW2DBbrdrF1IWFW8zWVvwk2Up1wbmuxI19WxWE_xuD3r5eGzT1Ku2w6jV-gB8vxKy/dl5/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRQeWhDQlVZV0JFIS8wLzIwMTc5Mi9sbw!!/';
+		window.location.href = '/wps/portal/!ut/p/a1/nZJRT8IwFIX_ijzscfRuZVvn2ySIEkADoqwvZOu6MbO1oxTQf2-BmGgigvbtNufcfufeIormiIpkWxaJLqVIqn1N_cXdA_iOS9wBwTMM0YPfnYQ9cPrgGUH8VQAY9_aC4DF4Dl2fwGV-cEdd575j_KMRQERuJsOn2y5AH5_zvyCKKBO60UsU80JuG6l0Ui24sMBUXImaC23BZs3zTXVVilyq-pDOApakpeB636FhZYZij6Uky0Kwwcuw3fGB2SEJsO0AxyxM8rSTu5_EJ050NvGUiyP1mbkdBL8N5ig4zREb0OAkiekw_WPywQXLLF9XKxqZlUih-ZtG83_uxLxVVDI9fME4EikmBaKK51xx1d4oc73UullfW2DBbrdrF1IWFW8zWVvwk2Up1wbmuxI19WxWE_xuD3r5eGzT1Ku2w6jV-gB8vxKy/dl5/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRQeWhDQlVZV0JFIS8wLzM2MDgyNC9sbw!!/';
 	});
 	
 	/** JQuery-Code-004 **/	
@@ -1809,7 +1787,7 @@ a[href^="tel"]:hover {
 		
 			window.open('https://www.ekey.bh/bnaf-usermgmt/pages/managemyekey?loc=en', '_blank');
 			
-		window.location.href = '/wps/portal/!ut/p/a1/nZJRT8IwFIX_ijzscfRuZVvn2ySIEkADoqwvZOu6MbO1oxTQf2-BmGgigvbtNufcfufeIormiIpkWxaJLqVIqn1N_cXdA_iOS9wBwTMM0YPfnYQ9cPrgGUH8VQAY9_aC4DF4Dl2fwGV-cEdd575j_KMRQERuJsOn2y5AH5_zvyCKKBO60UsU80JuG6l0Ui24sMBUXImaC23BZs3zTXVVilyq-pDOApakpeB636FhZYZij6Uky0Kwwcuw3fGB2SEJsO0AxyxM8rSTu5_EJ050NvGUiyP1mbkdBL8N5ig4zREb0OAkiekw_WPywQXLLF9XKxqZlUih-ZtG83_uxLxVVDI9fME4EikmBaKK51xx1d4oc73UullfW2DBbrdrF1IWFW8zWVvwk2Up1wbmuxI19WxWE_xuD3r5eGzT1Ku2w6jV-gB8vxKy/dl5/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRQeWhDQlVZV0JFIS8wLzIwMTc5My9sbw!!/';	
+		window.location.href = '/wps/portal/!ut/p/a1/nZJRT8IwFIX_ijzscfRuZVvn2ySIEkADoqwvZOu6MbO1oxTQf2-BmGgigvbtNufcfufeIormiIpkWxaJLqVIqn1N_cXdA_iOS9wBwTMM0YPfnYQ9cPrgGUH8VQAY9_aC4DF4Dl2fwGV-cEdd575j_KMRQERuJsOn2y5AH5_zvyCKKBO60UsU80JuG6l0Ui24sMBUXImaC23BZs3zTXVVilyq-pDOApakpeB636FhZYZij6Uky0Kwwcuw3fGB2SEJsO0AxyxM8rSTu5_EJ050NvGUiyP1mbkdBL8N5ig4zREb0OAkiekw_WPywQXLLF9XKxqZlUih-ZtG83_uxLxVVDI9fME4EikmBaKK51xx1d4oc73UullfW2DBbrdrF1IWFW8zWVvwk2Up1wbmuxI19WxWE_xuD3r5eGzT1Ku2w6jV-gB8vxKy/dl5/d5/L3dDb1ZJQSEhL3dPb0JKTnNBLzRQeWhDQlVZV0JFIS8wLzM2MDgyNS9sbw!!/';	
 	});
 	
 	/** JQuery-Code-006 **/	
@@ -2518,7 +2496,7 @@ function setSessionCookieStay(){
 	//date.setTime(date.getTime()+(days*24*60*60*1000));
 	setCookie("sessionStay","1","","/","","");
 }//end method
-});
+
 </script>
 
 <!-- Start - Back to top link -->
