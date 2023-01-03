@@ -1703,6 +1703,20 @@
             ]
           },
           {
+            "text": "🇨🇾 Cyprus: Collar of the Order of Makarios III (9 March 2015)",
+            "links": [
+              {
+                "text": "Cyprus",
+                "type": "internal",
+                "page": "cyprus"
+              },
+              {
+                "type": "internal",
+                "page": "Order of Makarios III"
+              }
+            ]
+          },
+          {
             "text": "🇴🇲 Oman: Member 1st class of the Order of Oman (24 October 2022)",
             "links": [
               {
@@ -1948,6 +1962,17 @@
         ]
       ],
       "references": [
+        {
+          "url": "http://cyprus.gov.cy/MOI/pio/pio.nsf/All/7FA1B0634636394AC2257E030035B5ED?OpenDocument",
+          "title": "Ο Πρόεδρος της Δημοκρατίας έτυχε επίσημης υποδοχής από το Βασιλιά του Μπαχρέιν",
+          "ημερομηνία": "2015-03-09",
+          "publisher": "Γραφείο Τύπου και Πληροφοριών",
+          "archiveurl": "https://web.archive.org/web/20190716202540/http://cyprus.gov.cy/MOI/pio/pio.nsf/All/7FA1B0634636394AC2257E030035B5ED?OpenDocument",
+          "archivedate": "2019-07-16",
+          "accessdate": "2019-07-16",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "template": "citation",
           "type": "inline",
