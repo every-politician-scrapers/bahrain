@@ -185,6 +185,26 @@
               }
             ]
           }
+        },
+        {
+          "royal name": {
+            "text": "The Crown Prince of Bahrain"
+          },
+          "image": {
+            "text": "[[Image:Coat of arms of Bahrain.svg|50px]]"
+          },
+          "dipstyle": {
+            "text": "His Royal Highness",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Royal Highness"
+              }
+            ]
+          },
+          "offstyle": {
+            "text": "Your Royal Highness"
+          }
         }
       ],
       "references": [
@@ -671,28 +691,6 @@
               "text": "Salman has been awarded a number of honors, including:"
             }
           ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "royal name": {
-            "text": "The Crown Prince of Bahrain"
-          },
-          "image": {
-            "text": "[[Image:Coat of arms of Bahrain.svg|50px]]"
-          },
-          "dipstyle": {
-            "text": "His Royal Highness",
-            "links": [
-              {
-                "type": "internal",
-                "page": "His Royal Highness"
-              }
-            ]
-          },
-          "offstyle": {
-            "text": "Your Royal Highness"
-          }
         }
       ],
       "lists": [

@@ -339,6 +339,27 @@
               }
             ]
           }
+        },
+        {
+          "royal name": {
+            "text": "The King of Bahrain"
+          },
+          "image": {
+            "text": "Coat of arms of Bahrain.svg"
+          },
+          "dipstyle": {
+            "text": "His Majesty",
+            "links": [
+              {
+                "text": "His Majesty",
+                "type": "internal",
+                "page": "Majesty"
+              }
+            ]
+          },
+          "offstyle": {
+            "text": "Your Majesty"
+          }
         }
       ],
       "references": [
@@ -1470,7 +1491,7 @@
         {
           "sentences": [
             {
-              "text": "King Hamad has received numerous honours, for example:"
+              "text": "King Hamad has received numerous honours from :"
             }
           ]
         }
@@ -1535,29 +1556,6 @@
         {
           "date": "June 2020",
           "template": "cn"
-        }
-      ],
-      "infoboxes": [
-        {
-          "royal name": {
-            "text": "The King of Bahrain"
-          },
-          "image": {
-            "text": "Coat of arms of Bahrain.svg"
-          },
-          "dipstyle": {
-            "text": "His Majesty",
-            "links": [
-              {
-                "text": "His Majesty",
-                "type": "internal",
-                "page": "Majesty"
-              }
-            ]
-          },
-          "offstyle": {
-            "text": "Your Majesty"
-          }
         }
       ],
       "lists": [
