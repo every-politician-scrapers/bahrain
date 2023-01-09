@@ -485,7 +485,7 @@
           "file": "File:The_Leys_School,_Cambridge.JPG",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Leys_School%2C_Cambridge.JPG?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Leys_School%2C_Cambridge.JPG",
-          "caption": "The Leys School, Cambridge",
+          "caption": "The Leys School, Cambridge.",
           "links": []
         }
       ],
@@ -1491,7 +1491,7 @@
         {
           "sentences": [
             {
-              "text": "King Hamad has received numerous honours from :"
+              "text": "King Hamad has received numerous honours from:"
             }
           ]
         }
